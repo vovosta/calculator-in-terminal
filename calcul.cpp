@@ -5,7 +5,7 @@ double addition (double a, double b){
 	return a + b;
 }
 
-double soustraction (double a, double b){
+double substraction (double a, double b){
 	return a - b;
 }
 
