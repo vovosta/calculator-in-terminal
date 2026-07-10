@@ -7,7 +7,7 @@ This project was created to practice the fundamentals of C++ programming, includ
 ## Features
 
 * ➕ Addition
-* ➖ Subtraction
+* ➖ Substraction
 * ✖️ Multiplication
 * ➗ Division
 * Interactive terminal menu
@@ -24,7 +24,7 @@ This project was created to practice the fundamentals of C++ programming, includ
 Compile the project with:
 
 ```bash
-g++ main.cpp calcul.cpp -o calculatrice
+g++ main.cpp calcul.cpp -o calculator
 ```
 
 ## Run
@@ -32,7 +32,7 @@ g++ main.cpp calcul.cpp -o calculatrice
 Execute the program:
 
 ```bash
-./calculatrice
+./calculator
 ```
 
 ## Project Structure
@@ -42,7 +42,7 @@ Execute the program:
 ├── main.cpp      # Main program
 ├── calcul.cpp    # Calculator function implementations
 ├── calcul.h      # Function declarations
-└── README.md
+└── README.md     # Description of the project
 ```
 
 ## Technologies
