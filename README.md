@@ -69,4 +69,6 @@ Created by **vovosta**.
 
 ## License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+
+You are free to use, study, modify, and redistribute this software under the terms of the GPLv3. Any distributed modified version must also be released under the GPLv3. See the `LICENSE` file for details.
