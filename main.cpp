@@ -21,7 +21,7 @@ int main (){
 			result = addition(a, b);
 				break;
 		case 2:
-			result = substraction(a, b);
+			result = subtraction(a, b);
 				break;
 		case 3: 
 			result = multiplication(a, b);
