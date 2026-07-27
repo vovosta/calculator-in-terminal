@@ -10,6 +10,7 @@ int main (){
 	std::cout << "2. Substraction" << '\n';
 	std::cout << "3. Multiplication" << '\n';
 	std::cout << "4. Division" << '\n';
+	std::cout << "Your choice :";
 	std::cin >> choice;
 	std::cout << "Please enter the first number of the operation : ";
 	std::cin >> a;
@@ -30,6 +31,7 @@ int main (){
 				break;
 		default:
 			std::cout << "Wrong choice.";
+				break;
 	} 
 	std::cout << "The result of the operation is : " << result << '\n';
 

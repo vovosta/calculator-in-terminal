@@ -6,10 +6,10 @@ This project was created to practice the fundamentals of C++ programming, includ
 
 ## Features
 
-* ➕ Addition
-* ➖ Substraction
-* ✖️ Multiplication
-* ➗ Division
+* Addition
+* Substraction
+* Multiplication
+* Division
 * Interactive terminal menu
 * Simple and easy-to-read code
 
@@ -17,7 +17,6 @@ This project was created to practice the fundamentals of C++ programming, includ
 
 * Linux
 * g++
-* Git (optional)
 
 ## Build
 
